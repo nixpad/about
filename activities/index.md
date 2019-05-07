@@ -9,6 +9,8 @@ These are all of the activities, products and services of the Foundation for Pu
 * [Codebase stewardship](codebase-stewardship/index.md): Providing for the sustainability, marketability and assured quality of a public code product.
 * [Codebase auditing](codebase-auditing/index.md): Certifying contributions and codebases as public code.
 
+# Services
+
 These are the processes and services that make our operations work:
 
 * [Documentation of the organization](documentation/index.md)
