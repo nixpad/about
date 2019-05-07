@@ -8,7 +8,7 @@ type: Resource
 This document serves as an expression of interest to be signed by public organizations that are exploring joining the Foundation for Public Code as a founding member.  It gives us permission to talk about our working relationship in the open.
 
 
-## Resource:
+## Resource
 You can access the [template here](https://docs.google.com/document/d/1jGQYAMkefcEtkblIrJXc6KpIzQZQCjL2QJBDA6wbHfc/edit?usp=sharing)
 
 
