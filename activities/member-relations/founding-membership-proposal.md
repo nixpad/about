@@ -8,7 +8,7 @@ type: Resource
 This document serves as a draft proposal to send to public organizations that are exploring joining the Foundation for Public Code as a founding member. It serves to formalize our conversation, and work out the next steps and a timeline together.
 
 
-## Resource: 
+## Resource
 You can access the [template here](https://docs.google.com/document/d/1icscB-9jPUF2psL1pm8mM_53BKQ5gEIKqmHnsTicKKY/edit?usp=sharing)
 
 
